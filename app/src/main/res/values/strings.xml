@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProjectDesigin2</string>
+    <string name="food_botton">食事</string>
+    <string name="excersice_botton">運動</string>
+    <string name="time_botton">タイマー</string>
+</resources>
